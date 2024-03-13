@@ -4,7 +4,7 @@ module Concurrent
   module Actor
     AdHoc = Utils::AdHoc
 
-    # FIXME better tests!
+    # FIXME better tests! 
 
     RSpec.describe 'Concurrent::Actor', edge: true do
 
